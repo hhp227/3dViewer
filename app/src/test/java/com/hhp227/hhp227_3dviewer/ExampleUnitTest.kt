@@ -1,4 +1,4 @@
-package com.hhp227.kotlinandroid
+package com.hhp227.hhp227_3dviewer
 
 import org.junit.Test
 
